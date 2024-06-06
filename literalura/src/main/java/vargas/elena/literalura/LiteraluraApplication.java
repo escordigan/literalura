@@ -10,8 +10,6 @@ import vargas.elena.literalura.repository.LibrosRepository;
 
 @SpringBootApplication
 
-// Se agrega la implementacion del CommandLineRunner para poder ejecutar la aplicacion//
-
 public class LiteraluraApplication implements CommandLineRunner {
 	@Autowired
 	LibrosRepository librosRepository;
@@ -25,11 +23,8 @@ public class LiteraluraApplication implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 
-		//Llamado de la clase Principal, para poder ejecutar el menu al principio del programa, creando la variable principal//
 		
 		Principal principal = new Principal(librosRepository,autoresRepository);
-
-		//Ejecucion de lo obtenido desde la variable principal que proviene de la clase Principal y su metodo menuPrincipal//
 
 		principal.menuPrincipal();
 
