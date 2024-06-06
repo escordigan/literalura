@@ -6,10 +6,6 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 @JsonIgnoreProperties(ignoreUnknown = true)
 
 
-
-//Aqui ponemos los datos especificos del area "authors" que queremos leer, con su JsonAlias//
-
-
 public record DatosDeAutor(
 
 
