@@ -8,8 +8,6 @@ import java.net.http.HttpResponse;
 
 public class ConsumoDeAPI {
 
-    //Metodo para obtener datos de API//
-
     public String obtenerDatos(String url) {
         HttpClient client = HttpClient.newHttpClient();
         HttpRequest request = HttpRequest.newBuilder()
