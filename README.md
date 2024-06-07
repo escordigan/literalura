@@ -17,6 +17,10 @@ Si el usuario selecciona la opción 1, se le pide que escriba el nombre del tít
 
 ![literalurabusqueda1](https://github.com/escordigan/literalura/assets/149540525/8cd6dcc2-e3b7-4a57-a447-0177937b6c87)
 
+En el caso en que el usuario seleccione la opción 2, se muestra en pantalla todos los libros buscados hasta el momento, que han sido almacenados en la base de datos PostgreSQL.
+
+![opcion2literalura](https://github.com/escordigan/literalura/assets/149540525/db6e3f24-43b4-4368-975f-8a2a01d6f378)
+
 
 
 
