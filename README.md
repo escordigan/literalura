@@ -21,9 +21,14 @@ En el caso en que el usuario seleccione la opción 2, se muestra en pantalla tod
 
 ![opcion2literalura](https://github.com/escordigan/literalura/assets/149540525/db6e3f24-43b4-4368-975f-8a2a01d6f378)
 
-Cuando el usuario elige la opción 3, se presenta en pantalla una lista de todos los autores de todos los libros buscados hasta el momento. Al mostrar esta lista se indican también algunos datos adicionales del autor, tales como: nombre, fecha de nacimiento, fecha de fallecimiento y libros registrados a su nombre.
+Cuando el usuario elige la opción 3, se presenta en pantalla una lista de todos los autores de todos los libros buscados hasta el momento que han sido almacenados en la base de datos PostgreSQL. Al mostrar esta lista se indican también algunos datos adicionales del autor, tales como: nombre, fecha de nacimiento, fecha de fallecimiento y libros registrados a su nombre.
 
 ![opcion3literalura](https://github.com/escordigan/literalura/assets/149540525/ee501d75-9108-4fd1-b889-722a3413db30)
+
+Si el usuario opta por la posibilidad 4, se le solicita primeramente que ingrese el año en el cual desea verificar si el autor(a) se encontraba vivo(a). Una vez digitado el dato aparecen en una lista todos los autores vivos para el año indicado, considerando la fecha de fallecimiento, dentro de todos los libros buscados hasta el momento, que han sido almacenados en la base de datos PostgreSQL.
+
+![opcion4literalura](https://github.com/escordigan/literalura/assets/149540525/b4f02986-9900-4fd2-8e9d-422257bf5556)
+
 
 
 
