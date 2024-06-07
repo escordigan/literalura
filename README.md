@@ -21,6 +21,12 @@ En el caso en que el usuario seleccione la opción 2, se muestra en pantalla tod
 
 ![opcion2literalura](https://github.com/escordigan/literalura/assets/149540525/db6e3f24-43b4-4368-975f-8a2a01d6f378)
 
+Cuando el usuario elige la opción 3, se presenta en pantalla una lista de todos los autores de todos los libros buscados hasta el momento. Al mostrar esta lista se indican también algunos datos adicionales del autor, tales como: nombre, fecha de nacimiento, fecha de fallecimiento y libros registrados a su nombre.
+
+![opcion3literalura](https://github.com/escordigan/literalura/assets/149540525/ee501d75-9108-4fd1-b889-722a3413db30)
+
+
+
 
 
 
