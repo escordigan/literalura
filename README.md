@@ -29,7 +29,19 @@ Si el usuario opta por la posibilidad 4, se le solicita primeramente que ingrese
 
 ![opcion4literalura](https://github.com/escordigan/literalura/assets/149540525/b4f02986-9900-4fd2-8e9d-422257bf5556)
 
+Finalmente, cuando el usuario prefiere la opción 5, en primer instancia se le indica que ingrese el idioma en el cual desea filtrar los libros. Una vez digitada la información aparece en una lista los libros en dicho lenguaje, dentro de todos los libros buscados hasta el momento, que han sido almacenados en la base de datos PostgreSQL.
 
+![menuliteralura5](https://github.com/escordigan/literalura/assets/149540525/2c0abceb-19a3-4692-b359-3f6f5142e6e6)
+
+
+Adicionalmente, sí el usuario ingresa un número que está fuera de la lista de opciones válidas, aparece un mensaje en pantalla que le recuerda que ese dato anotado no es una opción válida.
+
+![opcioninvalidanumero](https://github.com/escordigan/literalura/assets/149540525/6cacba06-1bd4-442c-8f43-f0b7b4b89886)
+
+
+En el caso de que ingrese texto o letras en vez de números, el programa también reconoce por separado esos caracteres y le señala al usuario el error ocurrido.
+
+![opcioninvalidaletras](https://github.com/escordigan/literalura/assets/149540525/3aeef8c0-8175-43b8-9392-df2a126c4615)
 
 
 
